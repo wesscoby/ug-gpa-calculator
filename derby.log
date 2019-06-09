@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Feb 25 09:12:25 GMT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0169-23ed-4385-000008905c40 
+on database directory C:\Users\WessCoby\Documents\My Projects\Java\intelliJProjects\CalculateGPA\src\database\undergraduate with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/WessCoby/Documents/My%20Projects/Java/intelliJProjects/CalculateGPA/src/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=C:\Users\WessCoby\Documents\My Projects\Java\intelliJProjects\CalculateGPA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
